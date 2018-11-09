@@ -1,0 +1,3 @@
+rootProject.name = 'so-mwe-kotlin-mpp-swift'
+
+enableFeaturePreview('GRADLE_METADATA')
